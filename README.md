@@ -39,7 +39,7 @@
 >>> We wish that this particular program will ome into action any moment.
 >>> we are **90%** good to go to push our folders for the submission .
 >>> We also changed some things in the program the earlier otp accesisible vaccine sheet .
->>> we changed it ####****into an otp accesisble page**** i.e the page is only accesisible when you enter the correct otp.
+>>> we changed it **##into an otp accesisble page** i.e the page is only accesisible when you enter the correct otp.
 >>> orelse it will raise an error
 
 ### Some additional things :
