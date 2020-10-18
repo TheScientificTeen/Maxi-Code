@@ -35,13 +35,12 @@
 ### Our third and last update 
 >>> So now we have finished our ppt , code and finishing touches and now we are ready to pust it into the repository .
 >>> So , we had created an emphasis on public health which we had repaired the problems in our second update and now we have modified it nicely
->>> Now we have done our level best on our ppt and to extract it we we have made a pdf of the same ppt .
->>> We wish that this particular program will ome into action any moment.
->>> we are **90%** good to go to push our folders for the submission .
->>> We also changed some things in the program the earlier otp accesisible vaccine sheet .
->>> we changed it **into an otp accesisble page** i.e the page is only accesisible when you enter the correct otp.
+>>> Now we have done our level best on our ppt and to extract it we  have made a pdf about our program/code .
+>>> We also changed some things in the program the earlier mentioned otp accesisible vaccine sheet .
+>>> We changed it **into an otp accesisble page** i.e the page is only accesisible when you enter the correct otp it will start taking inputs
 >>> or else it will wont take any input
->>> The change we made that was the age should entered only from 0-15 months and the weight is to be taken in kilograms and all the height inputs is taken in metres.
+>>> The change we made that was the age should entered only from 0-15 months and the weightshould be entered in  kilograms and all the height inputs is taken in metres.
+>>> All the heights and weight inputs can be entered in decimal value as well
 
 ### Some additional things :
 >>> We used the programing language of python its eay to use and is very helpful>
