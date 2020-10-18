@@ -40,7 +40,7 @@
 >>> We changed it **into an otp accesisble page** i.e the page is only accesisible when you enter the correct otp it will start taking inputs
 >>> or else it will wont take any input
 >>> The change we made that was the age should entered only from 0-15 months and the weightshould be entered in  kilograms and all the height inputs is taken in metres.
->>> All the heights and weight inputs can be entered in decimal value as well
+>>> All the heights and weight inputs can be entered in decimal value as well.
 
 ### Some additional things :
 >>> We used the programing language of python its eay to use and is very helpful>
