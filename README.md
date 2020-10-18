@@ -41,7 +41,7 @@
 >>> We also changed some things in the program the earlier otp accesisible vaccine sheet .
 >>> we changed it **into an otp accesisble page** i.e the page is only accesisible when you enter the correct otp.
 >>> or else it will wont take any input
->>> The change we made that was the age should entered only from 0-15 months and the weight is to be taken in kilograms and all the hieght inputs is taken in metres
+>>> The change we made that was the age should entered only from 0-15 months and the weight is to be taken in kilograms and all the height inputs is taken in metres.
 
 ### Some additional things :
 >>> We used the programing language of python its eay to use and is very helpful>
