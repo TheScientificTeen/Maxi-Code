@@ -23,7 +23,8 @@
 >>>This means that ; the code takes your phone number and generate a random **4 digit otp**.
 >>> So after entering your otp you can access the vaccine sheet .
 >>> But if You enter the **Wrong** otp it will show that the otp is incorrect.
->>> We did like this because we did not woant anyone to mess the dates and confuse the vaccine dates.
+>>> We did like this because we did not want anyone to mess the dates and confuse the vaccine dates.
+>>> This is also more secured
 
 ### Our second update
 **We have just kicked of on starting our power point presentation and our code is good progress**
@@ -34,9 +35,12 @@
 ### Our third and last update 
 >>> So now we have finished our ppt , code and finishing touches and now we are ready to pust it into the repository .
 >>> So , we had created an emphasis on public health which we had repaired the problems in our second update and now we have modified it nicely
->>> now we have done our level best on our ppt and to extract it we we have made a pdf of the same ppt 
+>>> Now we have done our level best on our ppt and to extract it we we have made a pdf of the same ppt .
 >>> We wish that this particular program will ome into action any moment.
->>> we are **90%** good to go to push our folders for the submission 
+>>> we are **90%** good to go to push our folders for the submission .
+>>> We also changed some things in the program the earlier otp accesisible vaccine sheet .
+>>> we changed it ####****into an otp accesisble page**** i.e the page is only accesisible when you enter the correct otp.
+>>> orelse it will raise an error
 
 ### Some additional things :
 >>> We used the programing language of python its eay to use and is very helpful>
